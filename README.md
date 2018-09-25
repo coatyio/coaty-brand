@@ -1,0 +1,17 @@
+# Coaty Brand Design
+
+This project contains Coaty brand material (such as icons and badges) to be
+used in Coaty applications. This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+## Logo
+
+The Coaty logo is available in different image formats: `svg`, `png`, and `ico`.
+The default fill color is orange (HTML/CSS color name `orange`, Hex #FFA500, RGB(255,165,0)).
+Depending on the use context and if feasible, you can also use one of the provided SVG icon
+variants with black, white or variable fill color.
+
+## Badges
+
+The badges provided in `coaty-badges.md` are intended to be used in your Coaty
+project's Markdown files (README.md, etc.).
