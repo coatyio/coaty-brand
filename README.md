@@ -12,7 +12,7 @@ The Coaty accent color is "Coaty Orange" (HTML/CSS color name `darkorange`, Hex 
 ## Logos
 
 The Coaty logo is available in different variants and image formats: `svg`, `png`, and `ico`.
-The default logo fill color is "Coaty Orange".
+The default logo fill color is "Coaty Orange" and the default character color is "white".
 
 Depending on the use context and if feasible, you can also use one of the provided SVG icon
 variants with black, white or variable fill color.
